@@ -14,27 +14,27 @@
 
 ### SQL TABLE DISPLAY
 
-![alt text](<Screenshot 2024-03-21 100040.png>)
+![alt text](<./images/Screenshot 2024-03-21 100040.png>)
 
 ### AAPL datas
 
-![alt text](<Screenshot 2024-03-21 104520.png>)
+![alt text](<./images/Screenshot 2024-03-21 104520.png>)
 
 ### AAPL Revenue and GP
 
-![alt text](<Screenshot 2024-03-21 104429.png>)
+![alt text](<./images/Screenshot 2024-03-21 104429.png>)
 
 ### AAPL Revenue and GP for 5 Years
 
-![alt text](<Screenshot 2024-03-21 104420.png>)
+![alt text](<./images/Screenshot 2024-03-21 104420.png>)
 
 ### YELP datas
 
-![alt text](<Screenshot 2024-03-21 104450.png>)
+![alt text](<./images/Screenshot 2024-03-21 104450.png>)
 
 ### ZS datas
 
-![alt text](<Screenshot 2024-03-21 104458.png>)
+![alt text](<./images/Screenshot 2024-03-21 104458.png>)
 
 
 
